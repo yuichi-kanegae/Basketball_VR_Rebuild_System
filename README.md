@@ -1,4 +1,4 @@
-# VR Basketball Analysis System
+# Basketball VR Rebuild System
 
 ## 概要
 本プロジェクトは、バスケットボールの試合映像から抽出された選手の位置データ（JSON）をUnity上で同期し、VR空間内で試合展開を多角的に再現・分析するためのシステムです。
