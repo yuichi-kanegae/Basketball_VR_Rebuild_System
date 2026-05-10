@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cd581785de999ef4499a90c12ca87cd3
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74669
+  packageName: Basketball Court
+  packageVersion: 3.0
+  assetPath: Assets/BasketballCourt/DemoScene/BasketballCourtV2.unity
+  uploadId: 831354

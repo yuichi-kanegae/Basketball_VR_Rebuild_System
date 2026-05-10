@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0b634168cd44025468ed615908de50cd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74669
+  packageName: Basketball Court
+  packageVersion: 3.0
+  assetPath: Assets/BasketballCourt/DemoScene/BasketballCourt/GlobalVolumeProfile.asset
+  uploadId: 831354

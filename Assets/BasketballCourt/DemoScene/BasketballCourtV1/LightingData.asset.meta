@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7314735d56dc6db4390ca458c0fb8167
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 112000000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74669
+  packageName: Basketball Court
+  packageVersion: 3.0
+  assetPath: Assets/BasketballCourt/DemoScene/BasketballCourtV1/LightingData.asset
+  uploadId: 831354

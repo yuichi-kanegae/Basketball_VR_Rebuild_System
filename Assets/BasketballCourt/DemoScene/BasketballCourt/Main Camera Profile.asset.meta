@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a20bc2468c29d814aa340eafe235314d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74669
+  packageName: Basketball Court
+  packageVersion: 3.0
+  assetPath: Assets/BasketballCourt/DemoScene/BasketballCourt/Main Camera Profile.asset
+  uploadId: 831354

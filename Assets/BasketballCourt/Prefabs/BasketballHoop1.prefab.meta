@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f961b34b62bd4b548b12887c507fa15d
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74669
+  packageName: Basketball Court
+  packageVersion: 3.0
+  assetPath: Assets/BasketballCourt/Prefabs/BasketballHoop1.prefab
+  uploadId: 831354

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 58d5db252821d464ba341dce3556ba5f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74669
+  packageName: Basketball Court
+  packageVersion: 3.0
+  assetPath: Assets/BasketballCourt/Materials/BullsHeadShader 1.mat
+  uploadId: 831354

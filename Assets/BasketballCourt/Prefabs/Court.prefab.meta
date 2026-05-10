@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9953cb10d5c51bc4e9f2c65d8ea8ef04
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 74669
+  packageName: Basketball Court
+  packageVersion: 3.0
+  assetPath: Assets/BasketballCourt/Prefabs/Court.prefab
+  uploadId: 831354
