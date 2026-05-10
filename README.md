@@ -1,5 +1,6 @@
 # Basketball VR Rebuild System
 
+> **画像をクリックすると、YouTubeでシステム解説動画が流れます（音声あり）**
 [![デモ動画](https://img.youtube.com/vi/qVROUS0B-wc/0.jpg)](https://youtu.be/qVROUS0B-wc)
 
 ## 概要
