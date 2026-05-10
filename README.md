@@ -1,5 +1,7 @@
 # Basketball VR Rebuild System
 
+[![デモ動画](https://img.youtube.com/vi/qVROUS0B-wc/0.jpg)](https://youtu.be/qVROUS0B-wc)
+
 ## 概要
 本プロジェクトは、バスケットボールの試合映像から抽出された選手の位置データ（JSON）をUnity上で同期し、VR空間内で試合展開を多角的に再現・分析するためのシステムです。
 Meta Quest 2/3に対応しており、俯瞰視点での戦術確認だけでなく、特定の選手の一人称視点を追体験することで、意思決定の質を向上させるトレーニングツールとしての活用を想定しています。
